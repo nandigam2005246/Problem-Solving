@@ -1,4 +1,4 @@
-# Leet-Code / Problem Solving / Learning
+# Problem Solving / Leet-Code / Learning Document
 
 Leet Code
 
