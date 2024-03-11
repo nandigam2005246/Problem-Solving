@@ -1,0 +1,15 @@
+Learning of the Day on C++:
+
+1. Always keep an eye on Inheriting the things.
+
+2. Let's assume there is a requirement to draw the Rectangle.
+
+3. There is a Class called Rectangle which can do the needful.
+
+4. In future if there is one more requirement to draw half rectangle.
+
+
+Q. what are your thoughts?
+
+
+A: The answer is simple, inherit the Rectangle Class to your new class and manipulate the params to achieve the things. In this case send the params divided by 2 which will do the needful. 
