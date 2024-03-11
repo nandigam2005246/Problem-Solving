@@ -9,3 +9,6 @@ link: https://leetcode.com/problems/merge-strings-alternately/description/?envTy
 Mar 10th - 10:30pm -> Problem (605. Can Place Flowers)
 
 link: https://leetcode.com/problems/can-place-flowers/description/?envType=study-plan-v2&envId=leetcode-75
+
+
+Mar 11th - 11:46pm -> Learning of the day on C++
