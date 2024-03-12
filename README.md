@@ -1,4 +1,4 @@
-# Problem Solving / Leet-Code / Learning Document
+https://leetcode.com/problems/two-sum/description/ Problem Solving / Leet-Code / Learning Document
 
 Leet Code
 
@@ -12,3 +12,8 @@ link: https://leetcode.com/problems/can-place-flowers/description/?envType=study
 
 
 Mar 11th - 11:46pm -> Learning of the day on C++
+
+
+Mar 12th - 10:29pm -> Problem (1. Two Sum)
+
+link: https://leetcode.com/problems/two-sum/description/
