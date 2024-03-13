@@ -17,3 +17,7 @@ Mar 11th - 11:46pm -> Learning of the day on C++
 Mar 12th - 10:29pm -> Problem (1. Two Sum)
 
 link: https://leetcode.com/problems/two-sum/description/
+
+Mar 13th - 10:23pm -> Updated Two sum Leet code solution
+
+link: https://leetcode.com/submissions/detail/1202711757/
