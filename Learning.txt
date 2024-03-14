@@ -12,4 +12,10 @@ Learning of the Day on C++:
 Q. what are your thoughts?
 
 
-A: The answer is simple, inherit the Rectangle Class to your new class and manipulate the params to achieve the things. In this case send the params divided by 2 which will do the needful. 
+A: The answer is simple, inherit the Rectangle Class to your new class and manipulate the params to achieve the things. In this case send the params divided by 2 which will do the needful.
+
+
+
+March 14th Learning:
+
+Overnarrowing down of functions will cause more ambiguity.
