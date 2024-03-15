@@ -19,3 +19,7 @@ A: The answer is simple, inherit the Rectangle Class to your new class and manip
 March 14th Learning:
 
 Overnarrowing down of functions will cause more ambiguity.
+
+March 15th Learning:
+
+Try to write generic functions so that code readability increases.
