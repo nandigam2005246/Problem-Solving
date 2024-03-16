@@ -23,3 +23,7 @@ Overnarrowing down of functions will cause more ambiguity.
 March 15th Learning:
 
 Try to write generic functions so that code readability increases.
+
+March 16th Laerning:
+
+Don't write/guess code based on output without understanding the things.
