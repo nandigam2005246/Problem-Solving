@@ -27,3 +27,82 @@ Try to write generic functions so that code readability increases.
 March 16th Laerning:
 
 Don't write/guess code based on output without understanding the things.
+
+
+March 17th Update: (Analyzed leet code problem 409. Longest Palindrome)
+    /*      
+          a -> 1
+          b -> 1
+          c -> 4
+          d -> 2
+    
+           a b cccc dd
+        
+           dccaccd
+           cd c
+
+            a- > 1
+            b _> 2
+            c _> 3
+            d -> 4 
+            
+            aabbcc -> 6
+            
+            aa bb cc
+            
+            
+            aaabcc -> 6
+            
+            aaa b cc -> 6
+            
+            acbca
+  
+            cbaabc
+            
+           s a bb ccc dddd -> 11
+            
+            ddbcacbdd
+            
+            
+            // when all characters are different
+            
+            abcdefghijk -> 11
+            
+            //when one character repeat twice
+            
+            abcdefghiij -> 11
+            
+            //when two characters repeat twice
+            
+            abcdefgiijj -> 11
+            
+            ijaji
+            
+            bccc -> 4
+            
+            b ccc
+            
+            cbc
+            
+            malayalaM
+            
+            m -> 1
+            M -> 1
+            a -> 4
+            l -> 2
+            y -> 1
+            
+            Idea:
+            
+            map<char, int> res; (In short find the frequency of each character )
+            
+            sort the integers in Descending Order
+            
+            If the no is an even no count all (n) and if it is an odd no count as (n -1)
+
+            conclusion:
+            
+              - If the same character repeats for even no of times then that the total can be                 counted as length
+              - If the same character repeats for odd no of times then the total will be                       counted as lenth -1
+
+    */
