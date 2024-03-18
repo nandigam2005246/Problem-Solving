@@ -106,3 +106,8 @@ March 17th Update: (Analyzed leet code problem 409. Longest Palindrome)
               - If the same character repeats for odd no of times then the total will be                       counted as lenth -1
 
     */
+
+March 18th Update: 
+
+Solve small problems with optimizations, it will act as building blocks while solving complex problems.
+For example the above example, the problem can be splitted into small problem. After splitting optimization code for finding frequency of number acts as building block to solve above problem.
