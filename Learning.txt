@@ -111,3 +111,8 @@ March 18th Update:
 
 Solve small problems with optimizations, it will act as building blocks while solving complex problems.
 For example the above example, the problem can be splitted into small problem. After splitting optimization code for finding frequency of number acts as building block to solve above problem.
+
+
+March 19th Update:
+
+Take code reviews as a part of learning.
