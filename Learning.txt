@@ -116,3 +116,8 @@ For example the above example, the problem can be splitted into small problem. A
 March 19th Update:
 
 Take code reviews as a part of learning.
+
+
+Mar 20th Update:
+
+Before going to learn anything first ask yourself these two questions. Why it is needed and how it is helpful?
