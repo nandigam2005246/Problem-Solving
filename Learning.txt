@@ -121,3 +121,22 @@ Take code reviews as a part of learning.
 Mar 20th Update:
 
 Before going to learn anything first ask yourself these two questions. Why it is needed and how it is helpful?
+
+
+Mar 30th Update:
+
+Sliding Window Problem: 
+
+Eg: arr = [6,3,2,-1,4] and k = 3. Find the maximum sum of k consecutive numbers in an array?
+
+A:
+
+Steps: 
+
+1. Find the sum of first k consecutive numbers and calculate window size.
+
+2. Move on too the next index and calculate window size - (k - 1) + (k).
+
+3. Compare the results of (2) with the calculated window size. If the window size > result of (2) change the window size, else continue.
+
+4. O(n) will be the time complexity.
