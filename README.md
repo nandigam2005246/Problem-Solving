@@ -21,3 +21,8 @@ link: https://leetcode.com/problems/two-sum/description/
 Mar 13th - 10:23pm -> Updated Two sum Leet code solution
 
 link: https://leetcode.com/submissions/detail/1202711757/
+
+July 28th - 09:33pm -> Jewels and Stones
+
+https://leetcode.com/submissions/detail/1336391938/
+
