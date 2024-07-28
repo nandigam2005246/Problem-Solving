@@ -26,3 +26,6 @@ July 28th - 09:33pm -> Jewels and Stones
 
 https://leetcode.com/submissions/detail/1336391938/
 
+July 28th - 10: 17pm -> Find if Digit Game Can Be Won
+https://leetcode.com/submissions/detail/1336439669/
+
